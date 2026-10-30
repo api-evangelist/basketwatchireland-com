@@ -64,5 +64,115 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-basketwatchireland-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://basketwatchireland.com/
+BasketWatch provides independent Irish grocery price intelligence, tracking daily shelf prices, promotions and loyalty offers across major supermarkets such as Aldi, Tesco, SuperValu, Dunnes Stores and Lidl. It offers a public API, dashboards, data stories and a free price comparison tool, delivering over 50,000 product price points each day.
+
+**Areas:** Company · Grocery · Price Intelligence · API · Ireland
+
+## basketwatchireland-com on APIs.io
+
+Everything profiled for basketwatchireland-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/basketwatchireland-com/](https://apis.io/providers/basketwatchireland-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [BasketWatch Irish Grocery Price API](https://apis.io/apis/basketwatchireland-com/basketwatch-irish-grocery-price-api/) — Provides JSON and CSV endpoints for Irish grocery prices across major supermarkets, including catalogue, movers, promotions, barcode lookup and nutrition.
+- [basketwatchireland-com API](https://apis.io/apis/basketwatchireland-com/basketwatchireland-com-api/) — basketwatchireland-com API as documented publicly: 24 operations. Contract generated from the documentation by API Evangelist (2026-10-30); not the…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetApiAldiSpecialbuysResponse](https://apis.io/schemas/basketwatchireland-com/basketwatchireland-com-get-api-aldi-specialbuys-response/)
+- [GetApiCompareResponse](https://apis.io/schemas/basketwatchireland-com/basketwatchireland-com-get-api-compare-response/)
+- [GetApiStoreKpisResponse](https://apis.io/schemas/basketwatchireland-com/basketwatchireland-com-get-api-store-kpis-response/)
+- [GetApiStoreProductsResponse](https://apis.io/schemas/basketwatchireland-com/basketwatchireland-com-get-api-store-products-response/)
+- [GetApiStorePromotionsResponse](https://apis.io/schemas/basketwatchireland-com/basketwatchireland-com-get-api-store-promotions-response/)
+- [GetApiStoreShrinkflationResponse](https://apis.io/schemas/basketwatchireland-com/basketwatchireland-com-get-api-store-shrinkflation-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Basketwatchireland Com Context](https://apis.io/jsonld/basketwatchireland-com/basketwatchireland-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [basketwatchireland-com API Rules](https://apis.io/rules/basketwatchireland-com/basketwatchireland-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Basketwatchireland Com Domain Security](https://apis.io/security/basketwatchireland-com/basketwatchireland-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://basketwatchireland.com/)
+- [API reference](https://basketwatchireland.com/api-reference)
+- [Pricing](https://basketwatchireland.com/#pricing)
+- [Support](https://basketwatchireland.com/faq)
+- [Blog](https://basketwatchireland.com/blog)
+- [Terms of service](https://basketwatchireland.com/terms)
+- [Privacy policy](https://basketwatchireland.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 39.2** — thin · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 53.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 31.6 |
+
+**Agent readiness 37.3** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/basketwatchireland-com/](https://apis.io/providers/basketwatchireland-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for basketwatchireland-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/basketwatchireland-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
